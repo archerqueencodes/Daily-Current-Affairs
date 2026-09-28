@@ -1,0 +1,6 @@
+{
+  "name": "UPSC Daily Current Affairs",
+  "description": "Daily News. Syllabus Connections. Exam-Ready Knowledge. Verified UPSC CSE notes mapped to Prelims, Mains GS1-4, Essay & Interview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
